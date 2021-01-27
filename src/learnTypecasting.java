@@ -1,4 +1,4 @@
-public class learn {
+public class learnTypecasting {
 
     public static void main(String[] args)
     {
@@ -8,7 +8,6 @@ public class learn {
 
         int b = a;
         System.out.println("Value of a: "+b);
-
         float c = a;
         System.out.println("Value of a: "+c);
 
