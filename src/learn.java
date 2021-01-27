@@ -19,5 +19,13 @@ public class learn {
         System.out.println("Value of a: "+e);
 
         //adding comments
+
+        System.out.println("Explicit Type Casting");
+
+        double x = 45.5;
+        int y = (int) x;
+
+        System.out.println("x: " + x);
+        System.out.println("y: " + y);
     }
 }
